@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+numpy==1.26.4
+opencv_python==4.9.0.80
+paddleocr==2.7.3
+Pillow==10.3.0
+pyzbar==0.1.9
+Requests==2.31.0
+ultralytics==8.1.47
